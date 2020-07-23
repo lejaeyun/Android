@@ -1,0 +1,16 @@
+*DotHome
+FTP 아이디: dietapp
+FTP 비밀번호: duftlafm37!
+도메인: dietapp.dothome.co.kr
+DB명: dietapp
+DB아이디: dietapp
+DB비밀번호: duftlafm37!
+
+*FileZilla
+호스트: 도메인
+사용자명: FTP 아이디
+비밀번호: FTP 비밀번호
+포트번호: 21
+
+*Database
+dietapp.dothome.co.kr/myadmin

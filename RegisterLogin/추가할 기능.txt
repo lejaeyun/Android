@@ -1,0 +1,15 @@
+<CheckBox
+    android:id="@+id/id_save"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="ID 저장"
+    tools:layout_editor_absoluteX="99dp"
+    tools:layout_editor_absoluteY="419dp" />
+
+<CheckBox
+    android:id="@+id/auto_login"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="자동로그인"
+    tools:layout_editor_absoluteX="216dp"
+    tools:layout_editor_absoluteY="419dp" />
